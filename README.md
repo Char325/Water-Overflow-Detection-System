@@ -1,5 +1,5 @@
 
-# Water Level Monitoring and SMS Alert System
+# Water Overflow Detection and SMS Alert System
 
 This Arduino sketch is designed to monitor water levels and send SMS alerts based on the water level reading. It uses a GSM module to send SMS messages to a predefined mobile number when the water level reaches specific thresholds.
 
