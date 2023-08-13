@@ -4,7 +4,7 @@
 This Arduino sketch is designed to monitor water levels and send SMS alerts based on the water level reading. It uses a GSM module to send SMS messages to a predefined mobile number when the water level reaches specific thresholds.
 
 ## Components Used
-- Arduino UNO board (compatible with SoftwareSerial)
+- <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"></a> (compatible with SoftwareSerial)
 - GSM module (SIM800L or similar)
 - Water level sensor (analog sensor connected to pin A0)
 - Power control pin (pin 7)
